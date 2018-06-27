@@ -17,5 +17,5 @@ I created the game to practice object oriented programming. I managed to script 
 *   furry - main character which moves across board,
 *   game - whole algorithm which starts and maintains the game.
 
-Every object is in another js file. I used module.exports, ten require functions to import objects. I used
+Every object is in another js file. I used module.exports, then require functions to import objects. I used
 webpack to genrate out.js file, which is connected to the project in index.html.
